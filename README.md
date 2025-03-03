@@ -8,6 +8,8 @@ Matricula:
 
 ## Tela de inspeção com navegador
 
+![Screenshot 2025-02-28 115028](https://github.com/user-attachments/assets/326f3806-7753-40ca-9cf7-a1f1db6b0ef1)
 
 ## Tela de projeto no Replit
 
+![Screenshot 2025-02-28 115321](https://github.com/user-attachments/assets/20b488d9-d18e-4339-9409-20169f2f3e9b)
