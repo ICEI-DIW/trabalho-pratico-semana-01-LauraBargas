@@ -7,8 +7,12 @@
 Nome: Laura Dias Bargas
 Matricula: 890630
 
+
 ## Tela de inspeção com navegador
+![Screenshot 2025-02-28 115028](https://github.com/user-attachments/assets/d038d079-2246-48de-9481-6ea951c0402f)
 
 
 ## Tela de projeto no Replit
+![Screenshot 2025-02-28 115321](https://github.com/user-attachments/assets/60542181-f0e5-4030-a691-11afb4200007)
+
 
