@@ -3,8 +3,8 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Laura Dias Bargas
+Matricula: 890630
 
 ## Tela de inspeção com navegador
 
